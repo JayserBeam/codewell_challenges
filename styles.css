@@ -1,0 +1,113 @@
+.bodyBar{
+    background-color: #a8a8a8;
+    height: 100%
+}
+
+headerBar{
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+leftLogo{
+    padding: 20px 20px 20px 80px;
+}
+
+midText{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+WholePage{
+    background-color: #a8a8a8
+}
+
+MilestoneSection{
+    display: flex;
+    flex-direction: column;
+}
+
+MilestoneHeader{
+    padding: 0px 0px 0px 15px;
+}
+
+MilestoneBlock{
+    gap: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: left;
+}
+
+ProfileImage{
+    padding: 5px;
+}
+
+MilestoneLink{
+    padding: 0px 0px 0px 15px;
+    text-emphasis-color: orange;
+}
+
+reactionSection {
+    align-content: left;
+}
+
+reactionBox {
+    display:flex;
+    justify-content: center;
+    gap: 5px;
+    padding: 8px;
+    border-color: grey;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+
+commentBoxText {
+    display: inline-block;
+}
+
+PostCard{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 10px;
+}
+
+CardTop{
+    display: flex;
+    justify-content: space-between;
+}
+
+ProfileText{
+    display: flex;
+    flex-direction: column;
+}
+
+CardImage{
+    width:auto;
+}
+
+reactionSection{
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+}
+
+TrendingBox{
+    padding: 10px 0px 10px 15px;
+}
+
+TrendingText{
+    margin-bottom: 5px;
+}
+
+TrendingFlex{
+    display: flex;
+    justify-content: space-between;
+}
